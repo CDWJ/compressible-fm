@@ -11,7 +11,7 @@
 This repo stores the source code of our SIGGRAPH 2025 paper **Fluid Simulation on Compressible Flow Maps**
 
 <figure>
-  <img src="./representative.jpg" align="left" width="100%" style="margin: 0% 5% 2.5% 0%">
+  <img src="./teaser.png" align="left" width="100%" style="margin: 0% 5% 2.5% 0%">
   <figcaption> We present diverse phenomena simulated using our compressible flow map method. From small-scale water striders swimming on the surface of a
 pond, to large-scale ships on vast oceans, and a Dragon capsule landing on Mars, our simulator captures both compressible and weakly compressible dynamics
 spanning various scales of applications with a single unified framework.</figcaption>
